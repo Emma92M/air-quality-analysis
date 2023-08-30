@@ -4,8 +4,8 @@ Air Quality Index is a combination of a few chemical elements or pollutants. The
 The boundaries for the level of each pollutant concentration are a scale from 0 to 500+ assessing the tolerance level and helps to monitor the air quality in the region (What is the Daily Air Quality Index? - Defra, UK, 2020).
 
 The data introduces the daily average for each pollutant since 2016 and has the following structure:
-• City Name
-• Longitude and Latitude
-• Date and hour
-• Pollutants
-• AQI (concentration) for each pollutant
+### • City Name
+### • Longitude and Latitude
+### • Date and hour
+### • Pollutants
+### • AQI (concentration) for each pollutant
